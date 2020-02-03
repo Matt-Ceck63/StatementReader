@@ -19,4 +19,4 @@ The executable files are saved in /target (platform dependent)
 
 Example of user interface
 
-!{Image of user interface](Capture.PNG)
+![Image of user interface](Capture.PNG)
